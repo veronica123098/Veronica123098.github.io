@@ -104,11 +104,12 @@
         display: flex;
         justify-content: center;
         flex-direction: column;
-        padding-left: 20px;
+        width: 100%;
     }
     .contenedorChats img{
         width: 100%;
     }
+    
 
     section div img{
         width: 500px;
