@@ -3,11 +3,23 @@
         height: 500px;
         background-image: url("yo.png");
         background-repeat: no-repeat;
+        width: 100%;
+    }
+    body{
+        margin: 0;
+        padding: 0;
     }
     .contenedorLogo{
         display: flex;
         justify-content: center;
         margin-bottom: 0;
+    }
+    .contenedorMapa{
+        display: flex;
+        justify-content: center;
+    }
+    .imagenP{
+        width: 100%;
     }
     .logo{
         width: 150px;
